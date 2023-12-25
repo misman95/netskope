@@ -1,5 +1,5 @@
 {
-    "name": "Syslog for Sumo Logic (Web Tx)",
+    "name": "Sumo Logic WebTx",
     "id": "syslog",
     "version": "3.1.0.1",
     "mapping": "Syslog Mappings for Sumo Logic",
@@ -12,7 +12,7 @@
     "description": "This plugin is used to ingest data to Sumo Logic platform. To access the plugin, you would need the credentials of SIEM platform .",
     "configuration": [
         {
-            "label": "Syslog for Sumo Logic",
+            "label": "Sumo Logic WebTx",
             "key": "syslog_server",
             "type": "text",
             "default": "",
